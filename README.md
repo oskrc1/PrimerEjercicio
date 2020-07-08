@@ -1,3 +1,3 @@
-# ejercicio12
+# ejercicio1
 
-Este ejericio es para la revisión del curso en Coursera
+Este ejercicio es para la revisión del curso en Coursera
